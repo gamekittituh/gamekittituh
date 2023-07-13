@@ -11,3 +11,6 @@
 #### Back-end
 
 #### Other
+
+## I'm listening
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21pmwkb7nhic4r2egut7f2t3y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
