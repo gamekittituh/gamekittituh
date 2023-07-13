@@ -1,4 +1,4 @@
-## Github Stat 🆒
+## Github Stat <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" />
 [![trophy](https://github-profile-trophy.vercel.app/?username=gamekittituh)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Github Status](https://github-readme-stats.vercel.app/api?username=gamekittituh&count_private=true&theme=synthwave&show_icons=true)](https://github.com/gamekittituh)
