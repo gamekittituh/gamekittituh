@@ -5,7 +5,7 @@
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gamekittituh&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=f5f5f5)](https://github.com/gamekittituh)
 
-## Tech Stack
+## Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crown.png" alt="Crown" width="25" height="25" />
 #### Front-end
 <div >
 	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
@@ -57,5 +57,5 @@
 </div>
 
 
-## I'm listening
+## I'm listening <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" />
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21pmwkb7nhic4r2egut7f2t3y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
