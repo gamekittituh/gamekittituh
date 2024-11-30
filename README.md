@@ -58,4 +58,4 @@
 
 
 ## I'm listening <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" />
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21pmwkb7nhic4r2egut7f2t3y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=21pmwkb7nhic4r2egut7f2t3y&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=21pmwkb7nhic4r2egut7f2t3y&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]]
